@@ -20,4 +20,5 @@ http://cs231n.github.io/
 
 Other repositories:
 https://github.com/jorgenkg/python-neural-network
+
 https://github.com/FlorianMuellerklein/Machine-Learning
