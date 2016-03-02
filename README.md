@@ -2,6 +2,8 @@
 Simple neural network for MNIST-recognition.
 Created for Machine Leaning-course at Seoul National University.
 
+Folders contain data (in zipped format, need to be extracted for use with code), previously saved networks, and figures automatically created for these saved networks. 
+
 
 ### Requirements
 The code is written in Python 3.4.3. 
