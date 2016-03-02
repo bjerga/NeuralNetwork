@@ -16,9 +16,8 @@ The code is meant to firstly train for the given number of epochs, and then clas
 
 ### Useful links
 Theory and concept: 
-http://cs231n.github.io/
+* http://cs231n.github.io/
 
 Other repositories:
-https://github.com/jorgenkg/python-neural-network
-
-https://github.com/FlorianMuellerklein/Machine-Learning
+* https://github.com/jorgenkg/python-neural-network
+* https://github.com/FlorianMuellerklein/Machine-Learning
